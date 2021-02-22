@@ -1,7 +1,8 @@
 # MeiMei 妹妹 App
 My voice note taking app
-
+<p align="center">
 ![Alt text](img/splash.png?raw=true "Splash Screen")
+</p>
 
 Icons from https://github.com/tabler/tabler-icons/tree/master/icons
 
